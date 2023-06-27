@@ -1,2 +1,1 @@
-# odin-recipes
-online cooking website
+small online recipes project
